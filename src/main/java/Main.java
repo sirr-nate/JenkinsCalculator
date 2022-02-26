@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Calculator calculator = new Calculator();
 
-        System.out.println("Welcom to the calculator!");
+        System.out.println("Welcome to the calculator!");
         System.out.println("Enter a command:");
 
         while(true) {
